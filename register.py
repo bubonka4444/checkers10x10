@@ -35,7 +35,7 @@ class Ui_registration(object):
         font = QtGui.QFont()
         font.setPointSize(24)
         self.regbtn.setFont(font)
-        self.regbtn.setStyleSheet("background-color: #00BFFF;\n"
+        self.regbtn.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.regbtn.setObjectName("regbtn")
