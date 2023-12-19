@@ -18,7 +18,7 @@ class Ui_kabinet(object):
         self.centralwidget.setObjectName("centralwidget")
         self.exitkab = QtWidgets.QPushButton(self.centralwidget)
         self.exitkab.setGeometry(QtCore.QRect(10, 10, 75, 23))
-        self.exitkab.setStyleSheet("background-color: #00BFFF\n"
+        self.exitkab.setStyleSheet("background-color: #fb00ff\n"
 "")
         self.exitkab.setObjectName("exitkab")
         self.stackedWidget = QtWidgets.QStackedWidget(self.centralwidget)
@@ -38,7 +38,7 @@ class Ui_kabinet(object):
         self.stats_window.setObjectName("stats_window")
         self.pushButton = QtWidgets.QPushButton(self.stats_window)
         self.pushButton.setGeometry(QtCore.QRect(200, 140, 161, 61))
-        self.pushButton.setStyleSheet("background-color: #00BFFF;\n"
+        self.pushButton.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.pushButton.setObjectName("pushButton")
@@ -47,20 +47,20 @@ class Ui_kabinet(object):
         self.play_window.setObjectName("play_window")
         self.play_btn = QtWidgets.QPushButton(self.play_window)
         self.play_btn.setGeometry(QtCore.QRect(200, 140, 161, 61))
-        self.play_btn.setStyleSheet("background-color: #00BFFF;\n"
+        self.play_btn.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.play_btn.setObjectName("play_btn")
         self.stackedWidget.addWidget(self.play_window)
         self.kabplay = QtWidgets.QPushButton(self.centralwidget)
         self.kabplay.setGeometry(QtCore.QRect(70, 400, 161, 31))
-        self.kabplay.setStyleSheet("background-color: #00BFFF;\n"
+        self.kabplay.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.kabplay.setObjectName("kabplay")
         self.kabstats = QtWidgets.QPushButton(self.centralwidget)
         self.kabstats.setGeometry(QtCore.QRect(370, 400, 161, 31))
-        self.kabstats.setStyleSheet("background-color: #00BFFF;\n"
+        self.kabstats.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.kabstats.setObjectName("kabstats")

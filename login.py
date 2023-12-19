@@ -35,7 +35,7 @@ class Ui_authorization(object):
         font = QtGui.QFont()
         font.setPointSize(24)
         self.loginbtn.setFont(font)
-        self.loginbtn.setStyleSheet("background-color: #00BFFF;\n"
+        self.loginbtn.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.loginbtn.setObjectName("loginbtn")

@@ -23,7 +23,7 @@ class Ui_MainWindow(object):
         font = QtGui.QFont()
         font.setPointSize(24)
         self.pushButton.setFont(font)
-        self.pushButton.setStyleSheet("background-color: #00BFFF;\n"
+        self.pushButton.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.pushButton.setObjectName("pushButton")
@@ -32,7 +32,7 @@ class Ui_MainWindow(object):
         font = QtGui.QFont()
         font.setPointSize(24)
         self.pushButton_2.setFont(font)
-        self.pushButton_2.setStyleSheet("background-color: #00BFFF;\n"
+        self.pushButton_2.setStyleSheet("background-color: #fb00ff;\n"
 "border:2px solid #2f6887;\n"
 "border-radius: 30;")
         self.pushButton_2.setObjectName("pushButton_2")

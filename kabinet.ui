@@ -27,7 +27,7 @@
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: #00BFFF
+     <string notr="true">background-color: #fb00ff
 </string>
     </property>
     <property name="text">
@@ -77,7 +77,7 @@
        </rect>
       </property>
       <property name="styleSheet">
-       <string notr="true">background-color: #00BFFF;
+       <string notr="true">background-color: #fb00ff;
 border:2px solid #2f6887;
 border-radius: 30;</string>
       </property>
@@ -97,7 +97,7 @@ border-radius: 30;</string>
        </rect>
       </property>
       <property name="styleSheet">
-       <string notr="true">background-color: #00BFFF;
+       <string notr="true">background-color: #fb00ff;
 border:2px solid #2f6887;
 border-radius: 30;</string>
       </property>
@@ -117,7 +117,7 @@ border-radius: 30;</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: #00BFFF;
+     <string notr="true">background-color: #fb00ff;
 border:2px solid #2f6887;
 border-radius: 30;</string>
     </property>
@@ -135,7 +135,7 @@ border-radius: 30;</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: #00BFFF;
+     <string notr="true">background-color: #fb00ff;
 border:2px solid #2f6887;
 border-radius: 30;</string>
     </property>
